@@ -6,7 +6,7 @@
 	<groupId>ludo.app</groupId>
 	<artifactId>rayservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>rayservice</name>
 	<description>Ray Service</description>
